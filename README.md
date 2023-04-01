@@ -1,6 +1,8 @@
 <h1> Hello, I'm Sharon! </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sharon Shaliyo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharonshaliyo/ "Connect on LinkedIn")
+<a href="https://www.linkedin.com/in/sharonshaliyo/">
+    <img src="https://img.shields.io/badge/-Sharon Shaliyo-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+</a>
 
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
