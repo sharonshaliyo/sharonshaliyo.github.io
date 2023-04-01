@@ -1,6 +1,6 @@
 <h1> Hello, I'm Sharon! </h1>
 
-<a href="https://www.linkedin.com/in/sharonshaliyo/">
+<a href="https://www.linkedin.com/in/sharonshaliyo/" target="_blank">
     <img src="https://img.shields.io/badge/-Sharon Shaliyo-0072b1?style=flat&logo=Linkedin&logoColor=white" />
 </a>
 <h4>Technologies</h4>
